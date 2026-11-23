@@ -4,6 +4,8 @@
 
 This project focuses on analyzing sales data using Python and Jupyter Notebook. The project uses a CSV dataset to calculate important sales information and understand business performance.
 
+Repository: [sales-data-analysis-python](https://github.com/Umesh-Kumar-Sah217/sales-data-analysis-python)
+
 ## Technologies Used
 
 - Python
